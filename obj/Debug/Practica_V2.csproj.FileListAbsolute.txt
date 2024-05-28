@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\C#\Practica_V2\bin\Debug\Practica_V2.exe.config
+C:\Users\USUARIO\Desktop\C#\Practica_V2\bin\Debug\Practica_V2.exe
+C:\Users\USUARIO\Desktop\C#\Practica_V2\bin\Debug\Practica_V2.pdb
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.LoginForm.resources
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.exe
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.pdb
+C:\Users\USUARIO\Desktop\C#\Practica_V2\obj\Debug\Practica_V2.Principal.resources
