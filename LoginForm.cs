@@ -32,7 +32,7 @@ namespace Practica_V2
 
             string usoCorrecto = "Pablo";
             string passCorrecto = "123456";
-
+            
             //Usuario correcto
             if (txtUsuario.Text.Equals(usoCorrecto) && txtPassword.Text.Equals(passCorrecto))
             {

@@ -36,6 +36,8 @@
             this.vinosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mejoresVinosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.vinosAActualizarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.personasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.altaPersonasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -47,7 +49,7 @@
             this.lblBienvenido.ForeColor = System.Drawing.Color.Red;
             this.lblBienvenido.Location = new System.Drawing.Point(235, 38);
             this.lblBienvenido.Name = "lblBienvenido";
-            this.lblBienvenido.Size = new System.Drawing.Size(139, 39);
+            this.lblBienvenido.Size = new System.Drawing.Size(136, 38);
             this.lblBienvenido.TabIndex = 0;
             this.lblBienvenido.Text = "HOLA :)";
             this.lblBienvenido.Visible = false;
@@ -58,10 +60,11 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.usuarioToolStripMenuItem,
-            this.vinosToolStripMenuItem});
+            this.vinosToolStripMenuItem,
+            this.personasToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(622, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(622, 30);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -77,7 +80,7 @@
             // perfilToolStripMenuItem
             // 
             this.perfilToolStripMenuItem.Name = "perfilToolStripMenuItem";
-            this.perfilToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.perfilToolStripMenuItem.Size = new System.Drawing.Size(125, 26);
             this.perfilToolStripMenuItem.Text = "Perfil";
             // 
             // vinosToolStripMenuItem
@@ -86,20 +89,35 @@
             this.mejoresVinosToolStripMenuItem,
             this.vinosAActualizarToolStripMenuItem});
             this.vinosToolStripMenuItem.Name = "vinosToolStripMenuItem";
-            this.vinosToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
+            this.vinosToolStripMenuItem.Size = new System.Drawing.Size(59, 26);
             this.vinosToolStripMenuItem.Text = "Vinos";
             // 
             // mejoresVinosToolStripMenuItem
             // 
             this.mejoresVinosToolStripMenuItem.Name = "mejoresVinosToolStripMenuItem";
-            this.mejoresVinosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.mejoresVinosToolStripMenuItem.Size = new System.Drawing.Size(208, 26);
             this.mejoresVinosToolStripMenuItem.Text = "Mejores Vinos";
             // 
             // vinosAActualizarToolStripMenuItem
             // 
             this.vinosAActualizarToolStripMenuItem.Name = "vinosAActualizarToolStripMenuItem";
-            this.vinosAActualizarToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.vinosAActualizarToolStripMenuItem.Size = new System.Drawing.Size(208, 26);
             this.vinosAActualizarToolStripMenuItem.Text = "Vinos a actualizar";
+            // 
+            // personasToolStripMenuItem
+            // 
+            this.personasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.altaPersonasToolStripMenuItem});
+            this.personasToolStripMenuItem.Name = "personasToolStripMenuItem";
+            this.personasToolStripMenuItem.Size = new System.Drawing.Size(80, 26);
+            this.personasToolStripMenuItem.Text = "Personas";
+            // 
+            // altaPersonasToolStripMenuItem
+            // 
+            this.altaPersonasToolStripMenuItem.Name = "altaPersonasToolStripMenuItem";
+            this.altaPersonasToolStripMenuItem.Size = new System.Drawing.Size(182, 26);
+            this.altaPersonasToolStripMenuItem.Text = "Alta personas";
+            this.altaPersonasToolStripMenuItem.Click += new System.EventHandler(this.altaPersonasToolStripMenuItem_Click);
             // 
             // contextMenuStrip1
             // 
@@ -135,5 +153,7 @@
         private System.Windows.Forms.ToolStripMenuItem mejoresVinosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem vinosAActualizarToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem personasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem altaPersonasToolStripMenuItem;
     }
 }

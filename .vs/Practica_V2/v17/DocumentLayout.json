@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|c:\\users\\usuario\\desktop\\c#\\practica_v2\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\altapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:altapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|c:\\users\\usuario\\desktop\\c#\\practica_v2\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\altapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:altapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|c:\\users\\usuario\\desktop\\c#\\practica_v2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|c:\\users\\usuario\\desktop\\c#\\practica_v2\\practica_c-\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|c:\\users\\usuario\\desktop\\c#\\practica_v2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|c:\\users\\usuario\\desktop\\c#\\practica_v2\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDDF4-B956-4E5D-B6AB-F31FB2F9E38F}|Practica_V2.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,65 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Principal.cs",
-              "RelativeDocumentMoniker": "Principal.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Principal.cs",
-              "RelativeToolTip": "Principal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\Entidades\\Persona.cs",
+              "RelativeToolTip": "Entidades\\Persona.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:22:22.463Z",
+              "WhenOpened": "2024-05-28T16:04:33.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Principal.cs",
-              "RelativeDocumentMoniker": "Principal.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal.cs [Dise\u00F1o]",
+              "Title": "AltaPersona.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\AltaPersona.cs",
+              "RelativeDocumentMoniker": "AltaPersona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\AltaPersona.cs",
+              "RelativeToolTip": "AltaPersona.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwH8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:07:23.143Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-05-28T14:56:12.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\Principal.cs",
+              "RelativeToolTip": "Principal.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAlwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:22:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Entidades\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Entidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\Entidades\\Usuario.cs",
               "RelativeToolTip": "Entidades\\Usuario.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T12:38:33.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\LoginForm.cs",
               "RelativeToolTip": "LoginForm.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAArwCkAAAAyAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T12:16:54.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T12:16:54.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\LoginForm.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\LoginForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "LoginForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T12:14:36.136Z",
+              "WhenOpened": "2024-05-28T12:14:36.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AltaPersona.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\AltaPersona.cs",
+              "RelativeDocumentMoniker": "AltaPersona.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\C#\\Practica_V2\\Practica_C-\\AltaPersona.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AltaPersona.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:26:49.198Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

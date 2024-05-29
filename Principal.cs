@@ -25,5 +25,11 @@ namespace Practica_V2
         {
 
         }
+
+        private void altaPersonasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AltaPersona alta = new AltaPersona();
+            alta.Show();
+        }
     }
 }
